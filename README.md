@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @BernadetteChevalier
-- 👀 I'm a curious and passionate learner, interested in a wide range of topics. This makes me a perpetual learner always exploring new things.
-- 🌱 Currently, as a teacher transitioning into a new career, I’ve decided to specialize in COBOL, which is the field I want to work in. 
-- 💞️ I enjoy learning by doing and collaborating on projects.
-  
-- 😄 On my GitHub, you will find my training work, personal projects, contributions to open-source projects, and resources to learn and grow together.
 
+# 👋 Bonjour, moi c’est Bernadette Chevalier !
+
+🎓 Precedemment enseignante aujourd'hui en reconversion vers le développement informatique.  
+💻 J’apprends des technologies robustes comme **COBOL**, **SQL**, **HTML/CSS**.
+🛠️ J’utilise des outils comme **VS Code** et **GitHub** pour construire mes projets avec clarté et méthode.
+
+---
+
+## 🛠️ Compétences en cours
+
+- 💡 **Langages** : HTML, CSS, COBOL, SQL
+- ⚙️ **Outils** : Visual Studio Code, Git, GitHub, VirtualBox
+- 🧠 **Méthodes** : 
+  - Programmation structurée
+  - Commentaires clairs
+  - Logique pas-à-pas
+  - Organisation rigoureuse du code
+
+---
+
+## 📫 Me contacter
+
+- 💌 Email : chevalierb59@gmail.com
 
 
 
