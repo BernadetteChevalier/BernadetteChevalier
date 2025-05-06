@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Compétences en cours
+## 🛠️ Compétences.
 
 - 💡 **Langages** : HTML, CSS, COBOL, SQL
 - ⚙️ **Outils** : Visual Studio Code, Git, GitHub, VirtualBox
